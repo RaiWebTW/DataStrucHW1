@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729738688 source:c:\users\user\desktop\source\hwdatastr4\main.cpp
+	<iostream>
+	<queue>
+
